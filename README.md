@@ -1,4 +1,4 @@
-# "To install, drag this icon..." no more!
+# "To install, drag this icon..."
 
 [![Build Status](https://travis-ci.org/phinze/homebrew-cask.png?branch=master)](https://travis-ci.org/phinze/homebrew-cask)
 [![Code Climate](https://codeclimate.com/github/phinze/homebrew-cask.png)](https://codeclimate.com/github/phinze/homebrew-cask)
